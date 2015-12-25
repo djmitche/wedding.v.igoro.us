@@ -1,0 +1,50 @@
+
+<html>
+<head>
+ <title>Sarah K. Berke &amp; Dustin J. Mitchell</title>
+ <link rel="STYLESHEET" title="Default" href="/wedding.css" />
+</head>
+<body>
+<div class="heading">
+ <div style="position: absolute">
+   <a href="/"><img border="0" src="/wedding-logo-small.png" style="padding: 0px; margin: 0px; border: 0px;" valign="center"></a>
+ </div>
+</div>
+<div class="navbar">
+ -
+ {&nbsp;<a href="/schedule.php"><font color="white">schedule</font></a>&nbsp;}
+ -
+ {&nbsp;<a href="/hotels.php"><font color="white">hotels</font></a>&nbsp;}
+ -
+ {&nbsp;<a href="/scrapbooks.php"><font color="white">scrapbooks</font></a>&nbsp;}
+ -
+ {&nbsp;<a href="/registries.php"><font color="white">registries</font></a>&nbsp;}
+ -
+</div>
+<div class="content">
+
+<center>Sarah and Dustin have registered with the following retailers:</center>
+
+<br />
+
+<table width="100%">
+<tr>
+<td align="right"><a href="http://www.bedbathandbeyond.com/regGiftRegistry.asp?order_num=-1&wrn=%2D1287550520"><img border="0" src="bbb.gif"></a></td>
+<td><a href="http://www.bedbathandbeyond.com/regGiftRegistry.asp?order_num=-1&wrn=%2D1287550520">Bed, Bath, and Beyond</a> (registry number 1626195)</td>
+</tr>
+<tr>
+<td align="right"><a href="http://giftreg.surlatable.com/"><img border="0" src="slt.jpg"></a></td>
+<td><a href="http://giftreg.surlatable.com/slt/gol">Sur La Table</a> (registry number 400040000402)</td>
+</tr>
+<tr>
+<td align="right"><a href="http://www.amazon.com/gp/registry/20BF5QIAW6UAF"><img border="0" src="amazon.gif"></a></td>
+<td><a href="http://www.amazon.com/gp/registry/20BF5QIAW6UAF">Amazon.com</a></td>
+</tr>
+</table>
+
+<br />
+
+<center>All stores offer online shopping.  If you prefer to shop in person,  ask an employee for a printed copy of the bride and groom's registry.  If you would like to purchase a registered item at another location, or if you have any questions about the registries, please contact the mother of the groom at <tt>mecfp@ime.net</tt>.  </center>
+
+</div>
+</body>

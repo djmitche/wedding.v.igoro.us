@@ -1,0 +1,13 @@
+div.section h1.title {
+  margin: 0px;
+  border-bottom: thin #ff3500 solid;
+  color: #ff5400;
+  font-size: 125%;
+  font-family: sans-serif;
+}
+
+div.section div.content {
+  padding: 0em 1.5em;
+
+  font-family: sans-serif;
+}

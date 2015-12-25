@@ -1,0 +1,90 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  height: 100%;
+}
+
+div.heading {
+  padding: 0px;
+  border: 0px;
+  height: 65px;
+}
+
+div.heading div.title {
+  padding-right: 1em;
+  text-align: right;
+  color: #9b9b9b;
+  font: 30px/65px "Arial", san-serif;
+}
+
+div.content {
+  padding: 1em;
+}
+
+a, a:visited, a:active { color: #ff3500; }
+a:hover { color: #ff8d47; }
+
+div.navbar {
+  background: #ff8d47;
+  border-top: thin solid #ff8d47;
+  border-bottom: thin solid #ff8d47;
+
+  text-align: center;
+  color: white;
+  font-family: 80% "Arial", "Georgia", "Times New Roman", "Times", serif;
+}
+
+div.navbar a { color: white; }
+div.navbar a:hover { color: #ff3500; }
+
+div.instructions {
+  padding: 1em;
+  text-align: center;
+  font-style: italic;
+  font-size: 90%;
+}
+
+/* Object Lists */
+
+table.objlist {
+  border: thin black solid;
+}
+
+table.objlist tr th {
+  text-align: left;
+  font-style: italic;
+  font-weight: normal;
+  padding-left: .5em;
+  padding-right: .5em;
+}
+
+table.objlist tr.even {
+  background-color: white;
+}
+
+table.objlist tr.odd {
+  background-color: #ffc7a4;
+}
+
+table.objlist a {
+  color: black;
+}
+
+table.objlist a:hover {
+  color: #303030;
+}
+
+/* Menus */
+
+table.menu {
+  padding: 1em;
+  border: thin #ff8d47 solid;
+  font-size: 90%;
+}
+
+table.menu tr td:before { content: ">> " }
+
+table.menu tr td {
+  padding-top: .5em;
+  padding-bottom: .5em;
+}

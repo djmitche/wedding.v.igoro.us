@@ -1,0 +1,57 @@
+form.directions {
+  display: none;
+  position: fixed;
+  left: 2em;
+  top: 2em;
+  padding: .5em 2em;
+  background-color: #ffc6a3;
+  -moz-opacity: 0.8;
+  -moz-border-radius: 1em;
+  border: thin black solid;
+  text-align: center;
+}
+
+form.directions h1 {
+  padding: 0px;
+  font-size: 120%;
+  font-family: sans-serif;
+}
+
+div.location {
+  clear: right;
+}
+
+div.location h1.title {
+  margin: 0px;
+  border-bottom: thin #ff3500 solid;
+  color: #ff5400;
+  font-size: 125%;
+  font-family: sans-serif;
+}
+
+
+div.location div.description {
+  padding: 0em 1.5em;
+
+  font-family: sans-serif;
+}
+
+
+div.location div.address {
+  float: right;
+  width: 25%;
+
+  padding: .25em;
+
+  border: thin #ff3500 solid;
+  font-size: small;
+  text-align: center;
+  background-color: #ffc6a3;
+  margin-bottom: 1em;
+  -moz-border-radius: 1em;
+}
+
+span.price {
+  color: green;
+  font-style: italic;
+}
